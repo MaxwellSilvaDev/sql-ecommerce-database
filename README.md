@@ -1,6 +1,6 @@
 # E-commerce SQL Database
 
-Projeto desenvolvido durante o curso **Especialista em Banco de Dados SQL da DIO**.
+Projeto de modelagem e implementação de um banco de dados relacional para um sistema de e-commerce, com foco em entidades, relacionamentos, chaves primárias, chaves estrangeiras e consultas SQL.
 
 ## 📊 Modelo do Banco
 
