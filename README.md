@@ -4,6 +4,8 @@ Projeto desenvolvido durante o curso **Especialista em Banco de Dados SQL da DIO
 
 ## 📊 Modelo do Banco
 
+![Diagrama do Banco](ecommerce-database-diagram.png)
+
 O banco simula um sistema de **e-commerce**, contendo:
 
 - Cliente
