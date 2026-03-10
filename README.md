@@ -13,6 +13,14 @@ Projeto de modelagem e implementação de um banco de dados relacional para um s
 - `sql/queries.sql` → consultas SQL do projeto
 - `ecommerce-database-diagram.png` → diagrama do banco de dados
 
+  ## Tecnologias Utilizadas
+
+- SQL
+- SQL Server
+- Git
+- GitHub
+- dbdiagram.io
+
 O banco simula um sistema de **e-commerce**, contendo:
 
 - Cliente
