@@ -6,7 +6,7 @@ Projeto de modelagem e implementação de um banco de dados relacional para um s
 
 ![Diagrama do Banco](ecommerce-database-diagram.png)
 
-## Estrutura do Projeto
+  ## Estrutura do Projeto
 
 - `sql/schema.sql` → criação das tabelas e relacionamentos
 - `sql/inserts.sql` → inserção de dados para testes
@@ -34,7 +34,7 @@ O projeto inclui consultas SQL para análise e manipulação dos dados do sistem
 
 Essas consultas foram desenvolvidas para praticar comandos SQL fundamentais, como `SELECT`, `WHERE`, `ORDER BY`, `JOIN`, `SUM` e cálculos com colunas.
 
-## Como Executar o Projeto
+  ## Como Executar o Projeto
 
 1. Crie um banco de dados no SQL Server.
 2. Execute o arquivo `sql/schema.sql` para criar as tabelas e relacionamentos.
@@ -56,17 +56,4 @@ O banco simula um sistema de **e-commerce**, contendo:
 - Pagamento
 - Entrega
 
-## 🛠 Tecnologias
 
-- SQL Server
-- SQL
-
-## 📈 Consultas implementadas
-
-- SELECT
-- WHERE
-- ORDER BY
-- JOIN
-- GROUP BY
-- HAVING
-- Atributos derivados
